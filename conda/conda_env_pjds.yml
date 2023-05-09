@@ -1,0 +1,16 @@
+name: pjds
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - matplotlib
+  - numpy==1.21.4
+  - numba==0.53.0
+  - h5py
+  - pandas
+  - python=3.8.*
+  - scikit-learn
+  - scipy
+  - seaborn
+  - tqdm
+  - tslearn
